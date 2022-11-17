@@ -1,3 +1,5 @@
+#../bin/bash
+
 wget https://devops-course-sep-22.s3.sa-east-1.amazonaws.com/ex1/secretGenerator.tar.gz
 cd /c/Users/ayam9/PycharmProjects/DevOpsSep22/02_linux_ex1/
 tar -zxvf secretGenerator.tar.gz #extract compressed file
